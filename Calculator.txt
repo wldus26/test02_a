@@ -3,5 +3,6 @@ class Calculator{
         int a=10; b = 20;
         System.out.println("덧셈 결과:"(a+b));
         System.out.prinltln("입력 내용에 뺄셈 결과를 추가하시오.");
+        System.out.prinltln("입력 내용에 곱셈 결과를 추가하시오.");
     }
 }
